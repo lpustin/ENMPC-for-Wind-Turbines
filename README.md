@@ -1,9 +1,5 @@
 # ENMPC-for-Wind-Turbines
-<<<<<<< HEAD
 An Economic Non-linear Model Predictive Controller for Power Production Maximization on Wind Turbines<br />
-=======
-An Economic Non-linear Model Predictive Controller for Power Production Maximization on Wind Turbines
->>>>>>> 211f80968dd0fb338f9e414f2efbdcf07cfbbf12
 The controller is deeply described in the following:<br />
 Pustina, L., F. Biral, and J. Serafini. "A novel Economic Nonlinear Model Predictive Controller for power maximisation on wind turbines." Renewable and Sustainable Energy Reviews 170 (2022): 112964.<br />
 
